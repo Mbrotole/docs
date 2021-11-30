@@ -1,4 +1,5 @@
----
+---CANNOT LINK EXECUTABLE "php": cannot locate symbol "__extenddftf2" referenced by "/data/data/com.termux/files/usr/bin/php"...
+
 title: Configuring issue templates for your repository
 intro: You can customize the templates that are available for contributors to use when they open new issues in your repository.
 redirect_from:
